@@ -1,9 +1,0 @@
-    #cart-dropdown {
-        position: absolute;
-        right: 0;
-        z-index: 100;
-        background-color: white;
-        width: 300px;
-        border: 1px solid #ccc;
-        /* Otros estilos... */
-    }
